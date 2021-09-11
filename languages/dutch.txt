@@ -105,7 +105,7 @@ nou
 terug
 zei
 mee
-oké
+oke
 niets
 iemand
 toen
@@ -172,7 +172,6 @@ erg
 bedankt
 wilt
 geld
-één
 spijt
 praten
 werk
@@ -214,7 +213,7 @@ drie
 kwam
 zegt
 toe
-hé
+he
 graag
 eerste
 maakt
@@ -325,7 +324,6 @@ kleine
 begrijp
 geeft
 houdt
-hè
 orde
 verder
 rustig
@@ -552,7 +550,6 @@ vooruit
 gebruikt
 kop
 zetten
-oke
 oorlog
 kennen
 vertelde
@@ -591,7 +588,6 @@ welkom
 stuk
 onderzoek
 bewijs
-eén
 haat
 veranderen
 zin
@@ -695,7 +691,6 @@ pardon
 herinner
 spel
 controle
-he
 gebeurde
 daarmee
 seks
@@ -1289,7 +1284,7 @@ last
 jake
 bill
 glas
-patiënt
+patient
 keuken
 plaatsen
 neergeschoten
@@ -1473,7 +1468,7 @@ maan
 vuile
 krant
 langzaam
-cliënt
+client
 medicijnen
 leider
 mist
@@ -1636,7 +1631,7 @@ amy
 gekozen
 nagedacht
 betekenen
-carrière
+carriere
 yeah
 vrije
 luistert
@@ -1683,7 +1678,7 @@ lach
 nerveus
 hielp
 oplossing
-geïnteresseerd
+geinteresseerd
 meegemaakt
 sterren
 km
@@ -1841,7 +1836,7 @@ gezond
 war
 bijvoorbeeld
 sterker
-ideeën
+ideeen
 verboden
 normale
 roken
@@ -1865,7 +1860,7 @@ dichterbij
 afscheid
 trut
 gedachte
-patiënten
+patienten
 toeval
 sukkel
 lenen
@@ -2223,7 +2218,7 @@ brak
 chauffeur
 commissaris
 sync
-privé
+prive
 waarschuwen
 schrijft
 erheen
@@ -2294,7 +2289,7 @@ orders
 shirt
 vanmiddag
 ruil
-knieën
+knieen
 quantity
 april
 voorbeeld
@@ -2564,7 +2559,7 @@ vertrouwt
 plotseling
 smerig
 fuck
-tweeën
+tweeen
 vlieg
 verkracht
 busje
@@ -2727,7 +2722,7 @@ overeen
 waarbij
 verdwijnt
 eisen
-californië
+californie
 spring
 ondertussen
 gezorgd
@@ -3007,7 +3002,7 @@ kleed
 grootvader
 bedenk
 ian
-café
+cafe
 gooit
 kliniek
 opleiding
@@ -3083,7 +3078,7 @@ technisch
 sigaret
 voeden
 smaakt
-scène
+scene
 schaam
 eva
 rusland
@@ -3179,7 +3174,6 @@ realiteit
 breek
 beroemde
 hmm
-vóór
 h
 tekst
 japan
@@ -3326,7 +3320,7 @@ openbare
 uitweg
 lets
 eeuwen
-italië
+italie
 margaret
 noodgeval
 mammie
@@ -3398,7 +3392,7 @@ aaron
 overgeven
 geraken
 netwerk
-creëren
+creeren
 gespannen
 incident
 passie
@@ -3555,7 +3549,7 @@ draaide
 eli
 tess
 uitschakelen
-financiële
+financiele
 pappa
 afval
 shane
@@ -3722,7 +3716,7 @@ heerlijke
 go
 metro
 doof
-officiële
+officiele
 bevroren
 ellie
 lawaai
@@ -3998,7 +3992,7 @@ uitgeput
 voorraad
 doorgeven
 dutch
-heroïne
+heroine
 philip
 melissa
 ontwikkeld
@@ -4094,7 +4088,7 @@ tof
 sue
 indien
 gebeten
-cliënten
+clienten
 katherine
 naomi
 rita
@@ -4134,7 +4128,7 @@ informant
 for
 miranda
 exact
-drieën
+drieen
 levenslang
 blank
 modder
@@ -4287,7 +4281,7 @@ recente
 schaal
 plaat
 geniaal
-cocaïne
+cocaine
 daag
 zwaartekracht
 cowboy
@@ -4327,7 +4321,7 @@ apparatuur
 elektrische
 sukkels
 vanwaar
-beëindigen
+beeindigen
 service
 tovenaar
 brooklyn
@@ -4341,7 +4335,7 @@ verknald
 praktijk
 gesneden
 genaaid
-coördinaten
+coordinaten
 extreem
 heksen
 technische
@@ -4505,7 +4499,7 @@ gijzelaars
 east
 baard
 geleend
-paranoïde
+paranoide
 papierwerk
 verbazingwekkend
 chase
@@ -4573,7 +4567,7 @@ tempo
 duncan
 aankwam
 wodka
-egoïstisch
+egoistisch
 oppassen
 bekijkt
 alvast
@@ -4630,7 +4624,7 @@ elektriciteit
 denise
 twijfelen
 kloten
-gênant
+genant
 terugbellen
 examen
 krijt
@@ -4739,7 +4733,7 @@ vette
 groepen
 belasting
 wijsheid
-australië
+australie
 jaagt
 verzorgen
 verdere
@@ -4848,7 +4842,7 @@ gezegend
 vallei
 kunstenaar
 verbind
-geïdentificeerd
+geidentificeerd
 visioen
 le
 logeren
@@ -5361,7 +5355,7 @@ jongste
 georgia
 tragisch
 rijkdom
-financiën
+financien
 kabel
 drake
 reid
@@ -5430,7 +5424,7 @@ identificatie
 vermoedelijk
 februari
 tegenovergestelde
-beïnvloeden
+beinvloeden
 vochten
 cat
 baantje
@@ -5691,7 +5685,7 @@ knippen
 state
 bijl
 edgar
-conciërge
+concierge
 hood
 rustige
 rodney
@@ -5937,7 +5931,6 @@ werpen
 gezinnen
 religieuze
 recent
-scene
 armband
 meldt
 opgelucht
@@ -6079,7 +6072,7 @@ meten
 analyseren
 hemeltje
 duivels
-gecreëerd
+gecreeerd
 waardig
 bezorgdheid
 dunne
@@ -6109,7 +6102,7 @@ bonus
 zonnestelsel
 montgomery
 nadia
-führer
+fuhrer
 spin
 bezorg
 oppikken
@@ -6241,9 +6234,8 @@ zijkant
 lacey
 vroegere
 gedeeld
-zó
 althans
-naïef
+naief
 destijds
 kassa
 doek
@@ -6370,7 +6362,7 @@ voltooid
 frost
 genen
 uiteen
-israël
+israel
 opkomen
 robots
 verspilt
@@ -6386,7 +6378,7 @@ verhuisde
 gegroeid
 commander
 scheur
-kopieën
+kopieen
 likken
 rudy
 romantiek
@@ -6460,7 +6452,7 @@ moeilijkste
 droomt
 zwangere
 sieraden
-poëzie
+poezie
 gedroeg
 aanviel
 notities
@@ -6493,7 +6485,6 @@ vernederd
 lemon
 vrijwilliger
 ow
-à
 gestemd
 attent
 run
@@ -6760,7 +6751,6 @@ hannibal
 opgedragen
 nieuwjaar
 woud
-patient
 joshua
 know
 kaak
@@ -6777,7 +6767,7 @@ evelyn
 memo
 brien
 geoefend
-onderzeeër
+onderzeeer
 altaar
 herinnerd
 gekookt
@@ -6873,14 +6863,12 @@ onderzoekers
 til
 dessert
 keerde
-â
 noordelijke
 leeuwen
 sherlock
 rondkijken
 beveiligd
 bestemd
-èèn
 fletcher
 stewart
 misdadigers
@@ -6999,11 +6987,11 @@ poorten
 wo
 denver
 ruwe
-geëxecuteerd
+geexecuteerd
 vastgesteld
 strikt
 sensoren
-hawaï
+hawai
 ikzelf
 grove
 vechter
@@ -7074,7 +7062,6 @@ zalm
 kai
 achterlijke
 verblijft
-okè
 sofia
 garandeer
 geknipt
@@ -7116,13 +7103,13 @@ verwelkomen
 gilbert
 archief
 belazerd
-potentiële
+potentiele
 shelby
 specialist
 beperken
 jon
 bedienen
-geruïneerd
+geruineerd
 adoptie
 ondertekend
 granaat
@@ -7137,7 +7124,7 @@ vlogen
 donor
 nikker
 vrouwtjes
-comité
+comite
 ally
 tate
 lippenstift
@@ -7219,7 +7206,7 @@ mieren
 kleintjes
 roer
 dalen
-überhaupt
+uberhaupt
 ventje
 uitbrengen
 aansluiten
@@ -7280,7 +7267,7 @@ slechteriken
 bijzijn
 an
 verhaaltje
-theorieën
+theorieen
 tik
 walvis
 uiten
@@ -7472,7 +7459,7 @@ lapd
 vakbond
 ontsla
 coole
-reünie
+reunie
 erfgenaam
 invullen
 rechtzetten
@@ -7634,7 +7621,7 @@ dominic
 liften
 beschikking
 schurken
-beïnvloed
+beinvloed
 preston
 vervolg
 voorspelling
@@ -7651,7 +7638,7 @@ benson
 minuutjes
 aandeed
 sadie
-geïnfecteerd
+geinfecteerd
 activeer
 ivy
 uitgehongerd
@@ -7708,7 +7695,6 @@ wanhopige
 marion
 schud
 teruggekeerd
-ª
 waaruit
 opvolgen
 dolfijnen
@@ -7855,7 +7841,7 @@ behoeften
 vicky
 claude
 bezoeker
-chemicaliën
+chemicalien
 jonah
 conclusies
 vice
@@ -7924,7 +7910,7 @@ edwards
 intimidatie
 accountant
 drong
-brazilië
+brazilie
 deelde
 geintjes
 mack
@@ -8001,7 +7987,7 @@ woordje
 lijfwacht
 gedekt
 aandoening
-bacteriën
+bacterien
 versterken
 uitrusten
 tegenstanders
@@ -8162,7 +8148,7 @@ dea
 insect
 antwoordt
 ontdoen
-señor
+senor
 jacques
 italianen
 vitale
@@ -8181,7 +8167,6 @@ buitenwereld
 vogeltje
 communisten
 opwarmen
-én
 ariel
 verbindt
 gaatje
@@ -8197,7 +8182,7 @@ mishandeld
 verschenen
 master
 drugsdealer
-röntgenfoto
+rontgenfoto
 formeel
 hetty
 afpersing
@@ -8283,7 +8268,7 @@ verplaats
 verwijten
 ty
 neven
-beëindigd
+beeindigd
 indringers
 trapt
 teksten
@@ -8480,7 +8465,7 @@ zooitje
 tatoeages
 ingeschreven
 klusjes
-intuïtie
+intuitie
 tokio
 vaststellen
 essentieel
@@ -8512,7 +8497,7 @@ opgericht
 management
 onvoorspelbaar
 elimineren
-ruïneren
+ruineren
 oneindig
 maffe
 vermaakt
@@ -8577,7 +8562,7 @@ michaels
 lullen
 mri
 vertonen
-creëert
+creeert
 spaargeld
 train
 knight
@@ -8742,11 +8727,11 @@ verzonden
 neerhalen
 snapte
 joint
-geïnspireerd
+geinspireerd
 clarence
 functioneren
 berecht
-geïsoleerd
+geisoleerd
 ontrouw
 greene
 diepste
@@ -8757,8 +8742,7 @@ vreemdelingen
 vaccin
 global
 spoelen
-azië
-dé
+azie
 strip
 oftewel
 wachters
@@ -8936,9 +8920,8 @@ fry
 gepubliceerd
 fusie
 uitging
-maïs
+mais
 eleases
-écht
 fontein
 initialen
 beheers
@@ -9044,7 +9027,6 @@ georganiseerde
 columbia
 fatale
 ike
-zoë
 ghost
 oprah
 hulpsheriff
@@ -9054,7 +9036,7 @@ verveelt
 antiek
 aeryn
 mans
-ruziën
+ruzien
 sky
 besten
 vatten
@@ -9062,7 +9044,7 @@ uitbreiden
 presents
 sympathie
 platform
-crème
+creme
 hysterisch
 spartacus
 zegel
@@ -9255,7 +9237,7 @@ darcy
 dusver
 vastgelegd
 trailer
-egoïstische
+egoistische
 opduikt
 file
 trish
@@ -9271,7 +9253,7 @@ historisch
 ongeduldig
 christenen
 ve
-efficiënt
+efficient
 richmond
 citroen
 charmante
@@ -9317,9 +9299,9 @@ impact
 paars
 kwaadaardig
 vaas
-discussiëren
+discussieren
 documentaire
-geïnformeerd
+geinformeerd
 herboren
 wonderbaarlijk
 harige
@@ -9514,7 +9496,6 @@ uitgeroeid
 oefen
 card
 masters
-client
 mobieltjes
 wederom
 kloof
@@ -9692,7 +9673,7 @@ hoeveelheden
 opoffering
 verzocht
 maximale
-geërfd
+geerfd
 aurora
 onmiddellijke
 hogerop
@@ -9743,7 +9724,7 @@ jensen
 dorpje
 contanten
 harley
-steroïden
+steroiden
 meeting
 binnenlaten
 turk
@@ -9762,7 +9743,7 @@ empire
 sprongen
 jus
 chemo
-fantasieën
+fantasieen
 lei
 brievenbus
 wright
@@ -9791,7 +9772,7 @@ brigade
 verkrachtte
 adviseer
 komedie
-belgië
+belgie
 enzovoort
 mosterd
 verdoemd
@@ -9823,7 +9804,7 @@ opsluiting
 verdedigde
 timer
 joggen
-beïnvloedt
+beinvloedt
 heart
 reuze
 zane
@@ -9848,7 +9829,6 @@ zonet
 tradities
 prik
 dinosaurussen
-daniël
 olive
 boeddha
 annuleren
