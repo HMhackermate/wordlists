@@ -1,0 +1,1 @@
+Wordlists taken from https://github.com/oprogramador/most-common-words-by-language/tree/master/src/resources
